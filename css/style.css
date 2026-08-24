@@ -1,0 +1,37 @@
+body {
+    background-color: #f5f6fa;
+}
+
+.card-dashboard {
+    border: none;
+    transition: 0.3s;
+}
+
+.card-dashboard:hover {
+    transform: translateY(-5px);
+}
+
+.card-dashboard h6 {
+    color: #6c757d;
+}
+
+.card-dashboard h2 {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+table {
+    background-color: white;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.btn {
+    border-radius: 8px;
+}
